@@ -5,7 +5,7 @@ site_url: https://gisynw.github.io/GIS_I/
 copyright: "Copyright &copy; 2024 - 2025 Yanan Wu"
 
 # Repository
-repo_name: gisynw/geog386
+repo_name: gisynw/GIS_I
 repo_url: https://gisynw.github.io/GIS_I.git
 
 # Configuration
@@ -94,8 +94,8 @@ nav:
     - Syllabus:
       - Syllabus Spring 2025: "Content/Spring2025_syllabus.ipynb"
     - Softwares:
-      - ArcGIS Pro: "software/ArcGISPro.ipynb"
-      - Anaconda: "software/Anaconda.ipynb"
+      - ArcGIS Software: "software/ArcGIS Software.ipynb"
+      # - Anaconda: "software/Anaconda.ipynb"
     - Lectures:
       - Week 1 Introdyction: "Lectures/Week01/Week01Intro_Lecture.ipynb"
       # - Week 2 Python Fundamental: "Lectures/Week02/Week02PyFdMetal.ipynb"
