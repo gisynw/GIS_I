@@ -92,7 +92,7 @@ plugins:
 nav:
     - Home: index.md
     - Syllabus:
-      - Syllabus Spring 2025: "Content/syllabus.ipynb"
+      - Syllabus Fall 2025: "Content/syllabus.ipynb"
     - Softwares:
       - ArcGIS Software: "software/ArcGIS Software.ipynb"
       # - Anaconda: "software/Anaconda.ipynb"
