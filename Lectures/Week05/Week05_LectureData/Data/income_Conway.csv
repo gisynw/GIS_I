@@ -1,0 +1,86 @@
+"CAINC1 County and MSA personal income summary: personal income, population, per capita personal income"
+"CAINC1 County and MSA personal income summary: personal income, population, per capita personal income"
+County
+GeoFips,GeoName,2012
+05000,Arkansas,36289
+05001,"Arkansas, AR",37936
+05003,"Ashley, AR",31430
+05005,"Baxter, AR",32160
+05007,"Benton, AR",67082
+05009,"Boone, AR",30551
+05011,"Bradley, AR",31351
+05013,"Calhoun, AR",29078
+05015,"Carroll, AR",26835
+05017,"Chicot, AR",32922
+05019,"Clark, AR",31337
+05021,"Clay, AR",30784
+05023,"Cleburne, AR",33317
+05025,"Cleveland, AR",30576
+05027,"Columbia, AR",33710
+05029,"Conway, AR",33446
+05031,"Craighead, AR",33675
+05033,"Crawford, AR",29390
+05035,"Crittenden, AR",31678
+05037,"Cross, AR",31348
+05039,"Dallas, AR",28289
+05041,"Desha, AR",33219
+05043,"Drew, AR",32556
+05045,"Faulkner, AR",33452
+05047,"Franklin, AR",29029
+05049,"Fulton, AR",25076
+05051,"Garland, AR",34754
+05053,"Grant, AR",32912
+05055,"Greene, AR",30782
+05057,"Hempstead, AR",27831
+05059,"Hot Spring, AR",27125
+05061,"Howard, AR",29071
+05063,"Independence, AR",29958
+05065,"Izard, AR",26855
+05067,"Jackson, AR",30965
+05069,"Jefferson, AR",30785
+05071,"Johnson, AR",25640
+05073,"Lafayette, AR",30435
+05075,"Lawrence, AR",28654
+05077,"Lee, AR",26023
+05079,"Lincoln, AR",23122
+05081,"Little River, AR",30123
+05083,"Logan, AR",29780
+05085,"Lonoke, AR",34732
+05087,"Madison, AR",27665
+05089,"Marion, AR",25513
+05091,"Miller, AR",30597
+05093,"Mississippi, AR",27810
+05095,"Monroe, AR",29897
+05097,"Montgomery, AR",25687
+05099,"Nevada, AR",28385
+05101,"Newton, AR",25269
+05103,"Ouachita, AR",32000
+05105,"Perry, AR",31367
+05107,"Phillips, AR",28304
+05109,"Pike, AR",27774
+05111,"Poinsett, AR",28718
+05113,"Polk, AR",26181
+05115,"Pope, AR",30847
+05117,"Prairie, AR",30669
+05119,"Pulaski, AR",45400
+05121,"Randolph, AR",27799
+05123,"St. Francis, AR",24234
+05125,"Saline, AR",37083
+05127,"Scott, AR",24858
+05129,"Searcy, AR",25660
+05131,"Sebastian, AR",36544
+05133,"Sevier, AR",26514
+05135,"Sharp, AR",27993
+05137,"Stone, AR",26244
+05139,"Union, AR",44556
+05141,"Van Buren, AR",27668
+05143,"Washington, AR",32105
+05145,"White, AR",31658
+05147,"Woodruff, AR",33250
+05149,"Yell, AR",26938
+
+Legend/Footnotes
+2. Per capita personal income is total personal income divided by total midyear population.
+"  Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020."
+Note. All dollar estimates are in thousands of current dollars (not adjusted for inflation). Statistics presented in thousands of dollars do not indicate more precision than statistics presented in millions of dollars.
+"  Last updated: February 20, 2025-- revised statistics for 2010-2019."
